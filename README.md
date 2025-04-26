@@ -1,7 +1,6 @@
-## Hi there 👋
-
 💻 Sobre mim
-Olá! Eu sou um desenvolvedor Java especializado em construir aplicações robustas e escaláveis usando o ecossistema Spring.
+
+Olá! Meu nome é Erivelton e sou um desenvolvedor Java especializado em construir aplicações robustas e escaláveis usando o ecossistema Spring.
 
 Tenho experiência sólida em:
 
