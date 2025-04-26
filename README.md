@@ -6,8 +6,6 @@ Tenho experiência sólida em:
 
 Java com Spring Boot, Spring Data, Spring Security e Spring Cloud
 
-Banco de dados: MySQL, PostgreSQL e Oracle
-
 Mensageria com Apache Kafka
 
 Desenvolvimento de APIs RESTful seguindo boas práticas de arquitetura
